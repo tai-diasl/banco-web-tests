@@ -1,0 +1,23 @@
+{
+  "name": "banco-web-tests",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tai-diasl/banco-web-tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tai-diasl/banco-web-tests/issues"
+  },
+  "homepage": "https://github.com/tai-diasl/banco-web-tests#readme",
+  "description": "",
+  "devDependencies": {
+    "cypress": "^16.2.1"
+  }
+}
