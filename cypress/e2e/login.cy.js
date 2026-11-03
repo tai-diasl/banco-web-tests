@@ -2,7 +2,7 @@ describe('Login', () => {
 
   beforeEach(() => {
     // Arrange
-    cy.visit(Cypress.expose('URL'))
+    cy.visit('/')
     cy.screenshot('apos-visitar-pagina')
   })
 
