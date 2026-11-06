@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "cypress run", 
-    "test-qa": "cypress run", 
-    "test-prod": "cypress run", 
+    "test": "cypress run",
+    "test-qa": "cypress run",
+    "test-prod": "cypress run",
     "cy:headed": "cypress run --headed",
     "cy:open": "cypress open"
   },
@@ -22,6 +22,7 @@
   "homepage": "https://github.com/tai-diasl/banco-web-tests#readme",
   "description": "",
   "devDependencies": {
-    "cypress": "^16.2.1"
+    "cypress": "^16.2.1",
+    "cypress-mochawesome-reporter": "^5.0.0"
   }
 }
